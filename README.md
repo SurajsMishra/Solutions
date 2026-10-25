@@ -40,3 +40,27 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 
 “Consistency over motivation. Solving one problem at a time.”
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+<!---LeetCode Topics End-->
