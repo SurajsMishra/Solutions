@@ -47,6 +47,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -55,12 +56,19 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
