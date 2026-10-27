@@ -7,10 +7,6 @@ class Solution {
             pal = pal*10 + rem;
             x = x/10;
         }
-        if(original == pal){
-            return true;
-        }else{
-            return false;
-        }
+        return original == pal;
     }
 }
