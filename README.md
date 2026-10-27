@@ -72,6 +72,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/SurajsMishra/Solutions/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Breadth-First Search
 |  |
