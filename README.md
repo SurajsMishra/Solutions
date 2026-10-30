@@ -94,5 +94,10 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
