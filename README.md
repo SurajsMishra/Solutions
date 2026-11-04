@@ -59,6 +59,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +102,12 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
