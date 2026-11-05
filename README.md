@@ -48,6 +48,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -85,6 +86,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/SurajsMishra/Solutions/tree/master/1480-running-sum-of-1d-array) |
