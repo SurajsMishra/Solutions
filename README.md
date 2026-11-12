@@ -85,6 +85,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurajsMishra/Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -112,4 +113,8 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SurajsMishra/Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SurajsMishra/Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
