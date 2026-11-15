@@ -102,6 +102,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/SurajsMishra/Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SurajsMishra/Solutions/tree/master/0344-reverse-string) |
@@ -124,5 +125,6 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SurajsMishra/Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SurajsMishra/Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
