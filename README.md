@@ -79,6 +79,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | ------- |
 | [0009-palindrome-number](https://github.com/SurajsMishra/Solutions/tree/master/0009-palindrome-number) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/SurajsMishra/Solutions/tree/master/0189-rotate-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SurajsMishra/Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SurajsMishra/Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +107,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/SurajsMishra/Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SurajsMishra/Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SurajsMishra/Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0977-squares-of-a-sorted-array) |
