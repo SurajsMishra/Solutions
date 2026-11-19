@@ -88,6 +88,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurajsMishra/Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SurajsMishra/Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SurajsMishra/Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/SurajsMishra/Solutions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/SurajsMishra/Solutions/tree/master/0125-valid-palindrome) |
@@ -135,5 +137,6 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SurajsMishra/Solutions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
