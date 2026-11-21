@@ -46,6 +46,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SurajsMishra/Solutions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SurajsMishra/Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SurajsMishra/Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -91,6 +92,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0015-3sum](https://github.com/SurajsMishra/Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SurajsMishra/Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/SurajsMishra/Solutions/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -142,4 +144,8 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0015-3sum](https://github.com/SurajsMishra/Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SurajsMishra/Solutions/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/SurajsMishra/Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
