@@ -98,6 +98,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SurajsMishra/Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/SurajsMishra/Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurajsMishra/Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SurajsMishra/Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -148,4 +149,8 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SurajsMishra/Solutions/tree/master/0064-minimum-path-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SurajsMishra/Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
