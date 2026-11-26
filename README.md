@@ -161,4 +161,8 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SurajsMishra/Solutions/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SurajsMishra/Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
