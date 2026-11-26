@@ -95,6 +95,7 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 | [0064-minimum-path-sum](https://github.com/SurajsMishra/Solutions/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/SurajsMishra/Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajsMishra/Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SurajsMishra/Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurajsMishra/Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SurajsMishra/Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SurajsMishra/Solutions/tree/master/0283-move-zeroes) |
@@ -156,4 +157,8 @@ All solutions are written with a focus on clarity, efficiency, and proper logic 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SurajsMishra/Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SurajsMishra/Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
